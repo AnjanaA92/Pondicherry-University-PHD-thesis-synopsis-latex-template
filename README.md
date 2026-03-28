@@ -1,4 +1,4 @@
-# Pondicherry-University-PHD-template
+# Pondicherry-University-PHD-synopsis-LATEX-template
 Synopsis Template
 This repository contains a LaTeX-based synopsis template designed specifically for PhD scholars. It provides a structured and easy-to-edit format for preparing research synopses in a clear, professional, and organized manner.
 
